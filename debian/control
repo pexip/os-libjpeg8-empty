@@ -1,9 +1,11 @@
 Source: libjpeg8-empty
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Section: graphics
 Priority: optional
 Build-Depends: debhelper
 Standards-Version: 3.9.2
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: libjpeg8
 Architecture: any

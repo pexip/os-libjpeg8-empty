@@ -1,3 +1,9 @@
+libjpeg8-empty (8c-2ubuntu7pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Thu, 26 Dec 2013 23:03:15 +0000
+
 libjpeg8-empty (8c-2ubuntu7) precise; urgency=low
 
   * Build a real libjpeg-dev package, to fix upgrades from lucid/oneiric.
